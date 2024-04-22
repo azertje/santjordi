@@ -145,6 +145,7 @@ main {
 .hero img {
   animation: flower-fade-in 2s ease-out forwards;
 }
+
 a {
   width: 3rem;
   position: absolute;

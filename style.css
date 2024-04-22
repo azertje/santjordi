@@ -167,7 +167,6 @@ a {
 
 .second {
   max-width: 600px;
-  height: 100vh;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -181,15 +180,6 @@ a {
 
 footer {
   text-align: center;
-  padding: 0 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 50px 20px 10px 20px;
   color: var(--text);
-}
-
-footer img {
-  width: 1.5rem;
-  height: 1.5rem;
-  margin-left: 5px;
 }
